@@ -1,0 +1,14 @@
+{
+  "name": "http_server",
+  "version": "1.0.0",
+  "description": "Server using NodeJS http module",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "keywords": [
+    "Node"
+  ],
+  "author": "FabianGarciaXY",
+  "license": "ISC"
+}
